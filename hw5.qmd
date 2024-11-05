@@ -1,0 +1,16 @@
+---
+title: "Hw_5"
+author: "Nishat"
+format: html
+editor: visual
+---
+
+```{r}
+library(dplyr)
+library(ggplot2)
+
+```
+
+```{r}
+2+3
+```
